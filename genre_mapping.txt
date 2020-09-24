@@ -1,0 +1,137 @@
+East Coast Hip Hop: Hip-Hop
+Jazz Rap: Hip-Hop
+Psychedelic Pop: Pop
+Ambient Techno: Electronic
+Indie Rock: Rock
+Chamber Pop: Pop
+Art Pop: Pop
+Heavy Metal: Metal
+IDM: Electronic
+Folk Rock: Folk
+Singer/Songwriter: Pop
+Contemporary Folk: Folk
+Heartland Rock: Rock
+Atmospheric Black Metal: Metal
+Krautrock: Progressive/Experimental
+Post-Bop: Jazz
+Dream Pop: Pop
+French House: Electronic
+Experimental Hip Hop: Hip-Hop
+Art Rock: Progressive/Experimental
+Glam Rock: Rock
+Technical Death Metal: Metal
+Hardcore Hip Hop: Hip-Hop
+Synthpop: Pop
+Instrumental Hip Hop: Hip-Hop
+Pop Rock: Pop
+Alternative R&B: Rhythm & Blues
+Jazz-Rock: Rock
+Gangsta Rap: Hip-Hop
+Progressive Rock: Progressive/Experimental
+Post-Rock: Progressive/Experimental
+Post-Punk: Punk
+Proto-Punk: Punk
+Post-Punk Revival: Punk 
+Chamber Folk: Folk
+Spiritual Jazz: Jazz
+Hard Bop: Jazz
+Modal Jazz: Jazz
+Hip Hop: Hip-Hop
+Pop Rap: Hip-Hop
+West Coast Hip Hop: Hip-Hop 
+Conscious Hip Hop: Hip-Hop
+Electronic: Electronic
+Hard Rock: Rock
+Abstract Hip Hop: Hip-Hop 
+Soul: Rhythm & Blues
+Trip Hop: Electronic
+Thrash Metal: Metal
+Jazz Fusion: Jazz
+Avant-Garde Jazz: Jazz 
+Shoegaze: Pop
+Country Rock: Country
+Indie Folk: Folk
+Industrial Rock: Rock
+Grunge: Punk
+Progressive Metal: Progressive/Experimental
+Southern Hip Hop: Hip-Hop
+Psychedelic Rock: Progressive/Experimental
+Rock Opera: Rock
+Alternative Rock: Rock
+Stoner Rock: Rock
+Rap Metal: Metal
+Noise Rock: Punk
+Minimalism: Classical
+Experimental Rock: Progressive/Experimental
+New Wave: Pop
+Art Punk: Punk
+Plunderphonics: Electronic
+Baroque Pop: Pop
+Gothic Rock: Rock
+Neo-Psychedelia: Progressive/Experimental
+Blues Rock: Rhythm & Blues
+Jangle Pop: Pop
+Baggy / Madchester: Rock
+Alternative Metal: Metal
+Neo-Soul: Rhythm & Blues
+Power Pop: Pop
+Symphonic Prog: Progressive/Experimental
+Twee Pop: Pop
+Industrial Hip Hop: Hip-Hop
+Soft Rock: Pop
+Garage Rock: Punk
+Progressive Pop: Pop
+Cool Jazz: Jazz
+Third Stream: Jazz
+Noise Pop: Pop
+Boom Bap: Hip-Hop
+Film Soundtrack: Soundtrack
+Math Rock: Progressive/Experimental
+Rock: Rock
+Punk Rock: Punk 
+Psychedelic Folk: Folk
+Indie Pop: Pop
+Garage Rock Revival: Punk
+Progressive Folk: Folk
+Synth Funk: Rhythm & Blues
+Post-Hardcore: Punk
+Experimental: Progressive/Experimental
+Acid Rock: Rock
+Lo-Fi / Slacker Rock: Rock
+Hip-Hop: Hip-Hop
+Black Metal: Metal
+Ambient: Electronic
+Soundtrack: Soundtrack
+Classical: Classical
+Post Hardcore: Punk
+Death Metal: Metal
+Folk: Folk
+Reggae: Rhythm & Blues
+Doom Metal: Metal 
+Jazz: Jazz
+Metalcore: Metal
+Punk: Punk
+Melodic Death Metal: Metal 
+Post Rock: Progressive/Experimental
+Post Metal: Metal
+Pop: Pop
+Industrial: Rock 
+Funk: Rhythm & Blues
+Metal: Metal
+Post Punk: Punk
+Gothic: Rock
+Psychedelic: Progressive/Experimental 
+Blues: Rhythm & Blues
+Ska: Rhythm & Blues
+Americana: Rock
+Hardcore: Punk
+Grind: Punk
+Emo: Punk
+Sludge Metal: Metal 
+Bluegrass: Country
+Lo-fi: Rock
+R&B: Rhythm & Blues
+Power Metal: Metal
+Drone: Progressive/Experimental
+Downtempo: Electronic
+Country: Country
