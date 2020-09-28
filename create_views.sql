@@ -46,3 +46,16 @@ CREATE OR REPLACE VIEW v_rym_artists AS
         rym_albums
     GROUP BY artist
     ORDER BY num_appearances DESC;
+    
+# Scores
+CREATE OR REPLACE VIEW v_sputnik_scores AS
+SELECT 
+    ranking, score
+FROM
+    sputnik_albums;
+
+CREATE OR REPLACE VIEW v_rym_scores AS
+SELECT 
+    ranking, score
+FROM
+    rym_albums;
