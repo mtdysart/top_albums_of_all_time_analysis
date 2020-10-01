@@ -6,6 +6,6 @@
 * Created visualizations from the data using the matplotlib library in order to compare and analyze the data from both sites
 
 # Code and Packages Used
-<b>Python Version:<b/> 3.8
-<b>Packages:<b/> pandas, matplotlib, seaborn, beautifulsoup4, selenium, requests, numpy
-<b>MySQL Version:<b/> 8.0.21
+**Python Version:** 3.8
+**Packages:** pandas, matplotlib, seaborn, beautifulsoup4, selenium, requests, numpy
+**MySQL Version:** 8.0.21
