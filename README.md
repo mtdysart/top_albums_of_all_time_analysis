@@ -23,7 +23,7 @@ Scraped the data from the top 200 albums of all time page for each respective si
 The data was then cleaned and transformed in order to handle between 1 and 3 genres for each album. The data was then inserted into a MySQL database in two separate tables, one for each site.
 
 # Data Visualization
-Some charts created from the collected data:
+Some charts created from the collected data. All visualization were created using matplotlib and seaborn.
 
 ![Sputnik Genres](./images/sput_main_genres.png)
 ![RYM Genres](./images/rym_main_genres.png)
