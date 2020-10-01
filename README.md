@@ -24,6 +24,7 @@ The data was then cleaned and transformed in order to handle between 1 and 3 gen
 
 # Data Visualization
 Some charts created from the collected data:
+
 ![Sputnik Genres](./images/sput_main_genres.png)
 ![RYM Genres](./images/rym_main_genres.png)
 ![Sputnik Dist](./images/sput_year_dist.png)
