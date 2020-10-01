@@ -38,3 +38,5 @@ Both sites have a remarkably similar median release year for their rankings (198
 Another interesting difference between the sites is that Sputnik contains over 20 more distinct artists in its rankings. This suggests that Sputnik contains many more 'underground' artists and bands, while some popular artists have many different albums represented in RYM's top 200, most noticeably Radiohead. This could simply be due to the fact that RYM includes popularity as a factor into its rankings.
 
 The takeaway for any music fan who may be considering which site they would enjoy more, is that both sites are worth frequenting. However, those who are more interested in Metal and finding more 'underground' music may enjoy their time on Sputnik more. Meanwhile those more interested in more Pop and Rock albums and perhaps a cleaner website (sorry Sputnik), many want to spend more time on RYM.
+
+A more detailed analysis and discussion of the methodologies used is included in the Visualizations and Analysis.ipynb file.
