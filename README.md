@@ -7,5 +7,7 @@
 
 # Code and Packages Used
 **Python Version:** 3.8
+
 **Packages:** pandas, matplotlib, seaborn, beautifulsoup4, selenium, requests, numpy
+
 **MySQL Version:** 8.0.21
