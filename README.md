@@ -1,2 +1,11 @@
-# top_albums_of_all_time_analysis
-README and project summary incoming...
+# Top Rated Albums of All Time: Project Overview
+* Discovered differences between two popular music rating websites: sputnikmusic.com and rateyourmusic.com in terms of genre preferences and popularity of certain artists
+* Scraped data from the top 200 albums of all time lists from both websites using python and selenium
+* Cleaned and restructured the data before inserting into a MySQL database
+* Created SQL views in order to easily extract the data from the database for analysis
+* Created visualizations from the data using the matplotlib library in order to compare and analyze the data from both sites
+
+# Code and Packages Used
+<b>Python Version:<b/> 3.8
+<b>Packages:<b/> pandas, matplotlib, seaborn, beautifulsoup4, selenium, requests, numpy
+<b>MySQL Version:<b/> 8.0.21
